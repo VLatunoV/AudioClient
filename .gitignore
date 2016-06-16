@@ -27,3 +27,14 @@
 *.exe
 *.out
 *.app
+
+# IDE
+*.vs
+*.sdf
+*.sln
+*.aps
+*.vcxproj
+*.filters
+*Debug/
+*x64/
+*x86/
